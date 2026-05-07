@@ -1,5 +1,10 @@
 # Build with AI — GDG Uninorte Workshop
 
+![Static Badge](https://img.shields.io/badge/python-3+-1C2024?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/uv-0.11+-1C2024?style=for-the-badge&logo=uv&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/sql-ansi_iso-1C2024?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/docker-4+-1C2024?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
+
 <img width="1000" height="228" alt="image" src="https://github.com/user-attachments/assets/30f023e3-b9b4-4b9c-8356-5cd91d1ad27c" />
 <br/>
 
